@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "655BDC011F2AD3EA001BCCD3"
+               BlueprintIdentifier = "655BDC211F2AE07A001BCCD3"
                BuildableName = "FaceIt.app"
                BlueprintName = "FaceIt"
                ReferencedContainer = "container:FaceIt.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "655BDC011F2AD3EA001BCCD3"
+            BlueprintIdentifier = "655BDC211F2AE07A001BCCD3"
             BuildableName = "FaceIt.app"
             BlueprintName = "FaceIt"
             ReferencedContainer = "container:FaceIt.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "655BDC011F2AD3EA001BCCD3"
+            BlueprintIdentifier = "655BDC211F2AE07A001BCCD3"
             BuildableName = "FaceIt.app"
             BlueprintName = "FaceIt"
             ReferencedContainer = "container:FaceIt.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "655BDC011F2AD3EA001BCCD3"
+            BlueprintIdentifier = "655BDC211F2AE07A001BCCD3"
             BuildableName = "FaceIt.app"
             BlueprintName = "FaceIt"
             ReferencedContainer = "container:FaceIt.xcodeproj">
